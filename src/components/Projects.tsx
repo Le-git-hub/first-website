@@ -1,4 +1,4 @@
-import React from 'react'
+
 import project from '../assets/project.png'
 const Projects = () => {
   return (
