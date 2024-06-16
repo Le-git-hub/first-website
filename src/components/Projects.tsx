@@ -1,5 +1,4 @@
 
-import project from '../assets/project.png'
 const Projects = () => {
   return (
     <div className='flex justify-center items-center  '>
