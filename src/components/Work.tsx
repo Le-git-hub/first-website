@@ -1,4 +1,4 @@
-import React from 'react'
+
 import coffee from '../assets/coffee.png'
 import Drop from '../assets/Drop.png'
 import Star from '../assets/Star.png'
