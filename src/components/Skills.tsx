@@ -1,4 +1,4 @@
-import React from 'react'
+
 import skills from "../assets/skills.png"
 const Skills = () => {
   return (
